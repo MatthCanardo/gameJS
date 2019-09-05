@@ -1,0 +1,4 @@
+section.game{border: 1px black solid;width: 250px; height: 250px;margin: auto; display:block; margin-top: 100px;}
+section.game .container.two{padding-top: 50px;}
+section.game .container.texte{padding-top: 10px;}
+section.game p{font-size: 10px;}
