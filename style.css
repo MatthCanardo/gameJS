@@ -1,4 +1,6 @@
-section.game{border: 1px black solid;width: 250px; height: 250px;margin: auto; display:block; margin-top: 100px;}
+section.game{border: 1px black solid;width: 375px; height: 340px;margin: auto; display:block; margin-top: 100px;background-color: white;position: relative;border-radius: 5px;}
 section.game .container.two{padding-top: 50px;}
 section.game .container.texte{padding-top: 10px;}
-section.game p{font-size: 10px;}
+section.game p{font-size: 15px;}
+
+section.gameboy{background-image: url("gameboycolor.png"); background-position: center; height: 2000px;background-repeat: no-repeat; margin-top: -775px;}
